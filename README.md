@@ -45,4 +45,4 @@ Multiple classification models were trained and tuned using 10-fold Cross-Valida
 * Visualized the performance metrics against thresholds to find the optimal cut-off for classification.
 * **Scoring:** Applied the chosen model (GBM) on the hold-out `score_set`, defining a custom threshold (0.05) to generate the final predictions and evaluated them using a Confusion Matrix.
 
-![ROC curves](image_40327a.png)
+
